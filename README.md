@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Linus Sidebäck from Stockholm<br><br>- 🔭 I’m currently studying System Science at LTU<br>- 📚 I'm currently learning kotlin<br>- ⚡ In my free time I do alpine skiing, watch sport, climb, run and train in gym</p>
+<p align="left">I'm Linus Sidebäck from Stockholm<br><br>- 🔭 I’m currently studying Information Systems at LTU<br>- 📚 I'm currently learning kotlin<br>- ⚡ In my free time I do alpine skiing, watch sport, climb, run and train in gym</p>
 
 ###
 
